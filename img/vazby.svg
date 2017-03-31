@@ -183,7 +183,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="482.18844"
+     inkscape:cx="255.91427"
      inkscape:cy="365.79666"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -205,7 +205,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -454,10 +454,9 @@
        id="text6459"
        sodipodi:linespacing="125%"><textPath
          xlink:href="#path6445"
-         id="textPath6469"><tspan
-   id="tspan6461"
-   dy="-7.0710673"
-   dx="158.59384">kdo dar dal</tspan></textPath></text>
+         id="textPath6469"
+         dx="171.72583"
+         dy="-4.0406103">dárce</textPath></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6586)"
        d="m 561.64481,490.10823 c 0,0 -88.37235,-29.00199 -147.48227,136.3706"
@@ -512,5 +511,20 @@
        id="path9450"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 557.33464,934.52621 556.32448,515.3129"
+       id="path4278"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4280"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path4278"
+         id="textPath4284"><tspan
+   id="tspan4282"
+   dy="-7.0710673"
+   dx="172.73601">patron</tspan></textPath></text>
   </g>
 </svg>
